@@ -75,7 +75,7 @@ select:focus {
 
 /* Ok ikonu */
 .fa-arrow-right {
-  color: #6b8e23;
+  color: #6a8e23;
   font-size: 30px;
   align-self: center;
   margin: 0 10px;
@@ -86,7 +86,7 @@ span {
   margin-top: 40px;
   font-style: italic;
   font-size: 16px;
-  color: #4a6a42;
+  color: #4a6a4234;
   width: 100%;
 }
 
